@@ -1,6 +1,6 @@
-<h3 align="center">MIT OCW EECS</h3>
+<h3 align="center">MIT OCW Inventor Curriculum</h3>
 <p align="center">
-  Path to a free self-taught education in the MIT Electrical Engineering and Computer Science Bachelors!
+  Path to a free self-taught education in the MIT OpenCourseWare !
 </p>
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -8,14 +8,26 @@
   </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/MIT_OCW-Open_Learning-%23FF8C00?style=-flat&link=https%3A%2F%2Focw.mit.edu%2F">
   <a href="https://github.com/cforcomputer/EECS">
-	<img alt="Electrical Engineering and Computer Science" src="https://img.shields.io/badge/Electrical_Engineering--and--Computer_Science-blue.svg">
+	<img alt="Electrical Engineering and Computer Science" src="https://img.shields.io/badge/Electrical_Engineering----Computer_Science----Physics-blue.svg">
   </a>
 </p>
 
+# Overview
 
-# EECS
+Open source plan for following my custom MIT science curriculum using MIT OCW and freely available resources. This curriculum aims to provide a strong fundamental understanding in physics (with a focus in quantum physics), computer science, and electrical engineering. At the end of this course, students will be capable of engineering and building any project from theory to completion.
 
-Open source plan for following the MIT Electrical Engineering and Computer Science curriculum as closely as possible using MIT OCW and freely available resources. For self learners that are interested in what it could be like to attend MIT, but were unable to attend due to its the extremely selective nature.
+It is expected that as you progress in the course, you will focus more on a specific area.
 
 Curriculum overview: <https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/>
+
+# Core Classes
+
+## Year One
+The first year is designed to be polymathic, providing a surface level understanding of biology, mathematics, physics, and both mechanical and electrical engineering. In year one you 
+
+## Year Two
+
+## Year Three
+
+## Year Four
 
