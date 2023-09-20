@@ -1,33 +1,21 @@
-<h3 align="center">MIT OCW Inventor Curriculum</h3>
+<h3 align="center">MIT OCW Major Plans</h3>
 <p align="center">
-  Path to a free self-taught education in the MIT OpenCourseWare !
+  Path to a free self-taught education in the MIT OpenCourseWare!
 </p>
 <p align="center">
-    <a href="https://github.com/sindresorhus/awesome">
+    <a href="https://ocw.mit.edu/">
     <img alt="MIT OCW" src="https://pbs.twimg.com/profile_images/912676696620359680/e-G5lqVs_400x400.jpg" width="20">
   </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/MIT_OCW-Open_Learning-%23FF8C00?style=-flat&link=https%3A%2F%2Focw.mit.edu%2F">
-  <a href="https://github.com/cforcomputer/EECS">
-	<img alt="Electrical Engineering and Computer Science" src="https://img.shields.io/badge/Electrical_Engineering----Computer_Science----Physics-blue.svg">
-  </a>
 </p>
 
-# Overview
+## View contents
 
-Open source plan for following my custom MIT science curriculum using MIT OCW and freely available resources. This curriculum aims to provide a strong fundamental understanding in physics (with a focus in quantum physics), computer science, and electrical engineering. At the end of this course, students will be capable of engineering and building any project from theory to completion.
+- <a href="/eecs-6-2/">EECS 6-2 Electrical Engineering and Computer Science</a>
+- <a href="/physics-flex/">Physics (flex option for double majors)</a>
 
-It is expected that as you progress in the course, you will focus more on a specific area.
+The goal with these plans is for someone to sit down and complete all the courses and have all the equivalent courses to earn a degree at MIT.
 
-Curriculum overview: <https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/>
+There are sufficient materials on MIT OCW for this to be possible now. The only exception is lab courses, where the learning experience will have to be replicated with your own exploratory projects.
 
-# Core Classes
-
-## Year One
-The first year is designed to be polymathic, providing a surface level understanding of biology, mathematics, physics, and both mechanical and electrical engineering. In year one you 
-
-## Year Two
-
-## Year Three
-
-## Year Four
-
+> <p style="color:orange"><i>Feel free to add more plans.</i></p>
