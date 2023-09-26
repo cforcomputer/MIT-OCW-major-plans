@@ -11,7 +11,7 @@
 
 ## View contents
 
-- <a href="/eecs-6-2/">EECS 6-2 Electrical Engineering and Computer Science</a>
+- <a href="archive/eecs-6-2/">(2017) EECS 6-2 Electrical Engineering and Computer Science</a>
 - <a href="/physics-flex/">Physics (flex option for double majors)</a>
 
 The goal with these plans is for someone to sit down and complete all the courses and have all the equivalent courses to earn a degree at MIT.
