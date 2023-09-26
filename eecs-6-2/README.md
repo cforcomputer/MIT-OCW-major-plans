@@ -25,6 +25,8 @@ Curriculum overviews: <https://www.eecs.mit.edu/academics/undergraduate-programs
 
 # Core Classes
 
+![roadmap for eecss](/files/roadmap-eecs.png "Title")
+
 ## Year Zero
 
 Year zero classes are the classes that would usually be completed during high school. Some of these classes are completed at MIT.
@@ -39,20 +41,51 @@ These courses are not "easy" and depending on your existing knowledge, you may n
 | ------------------------------------------------------ | ------------ | ----------------------------------------------------------------------------------------------- |
 | Pre-calculus Courses                                   | Khan Academy | Khan academy is a fantastic resource for receiving a fundamentals education in various topics.  |
 | Single Variable Calculus (Differentials and Integrals) | Khan Academy | Continue with Khan academy or switch to the much more rigorous MIT courses if you feel prepared |
-
-| Physics                 | Course            | Description                 |
-| ----------------------- | ----------------- | --------------------------- |
-| Introduction to Physics | Khan Academy <br> | Introductory physics topics |
+| Multivariable calculus (Calculus II)                   | MIT OCW      | GIR                                                                                             |
 
 ## Year One
 
-###
+### Semester 1 (4 months)
 
-| Programming                         | Course  | Description                                  |
-| ----------------------------------- | ------- | -------------------------------------------- |
-| One of 6.100A 6.0001, 6.100L 6.000L | MIT OCW | The first introduction to programming course |
+Highlighted courses are the ones that I have personally selected.
+
+| Programming Skills                   | Course  | Description                                  |
+| ------------------------------------ | ------- | -------------------------------------------- |
+| <mark>One of 6.0001\*</mark>, 6.S061 | MIT OCW | The first introduction to programming course |
+
+| Physics                  | Course  | Description                           |
+| ------------------------ | ------- | ------------------------------------- |
+| <mark>Physics I\*</mark> | MIT OCW | The first introductory physics course |
+
+| Mathematics                           | Course  | Description        |
+| ------------------------------------- | ------- | ------------------ |
+| <mark>Differential Equations\*</mark> | MIT OCW | Mathematics for EE |
+
+### Semester 2 (4 months)
+
+| Physics                   | Course  | Description                            |
+| ------------------------- | ------- | -------------------------------------- |
+| <mark>Physics II\*</mark> | MIT OCW | The second introductory physics course |
+
+| EECS                                | Course  | Description |
+| ----------------------------------- | ------- | ----------- |
+| <mark>Introduction to EECS\*</mark> | MIT OCW | Intro       |
+
+| Foundation                                                                                    | Course  | Description                    |
+| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
+| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 1 of 3 foundation courses |
 
 ## Year Two
+
+### Semester 3 (4 months)
+
+| Foundation                                                                                    | Course  | Description                    |
+| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
+| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 2 of 3 foundation courses |
+
+| Foundation                                                                                    | Course  | Description                    |
+| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
+| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 3 of 3 foundation courses |
 
 ## Year Three
 
