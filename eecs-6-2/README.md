@@ -25,7 +25,9 @@ Curriculum overviews: <https://www.eecs.mit.edu/academics/undergraduate-programs
 
 # Core Classes
 
-![roadmap for eecss](/files/roadmap-eecs.png "Title")
+<details>
+<summary> <img src="roadmap-eecs.png"></img></summary>
+</details>
 
 ## Year Zero
 
@@ -43,25 +45,19 @@ These courses are not "easy" and depending on your existing knowledge, you may n
 | Single Variable Calculus (Differentials and Integrals) | Khan Academy | Continue with Khan academy or switch to the much more rigorous MIT courses if you feel prepared |
 | Multivariable calculus (Calculus II)                   | MIT OCW      | GIR                                                                                             |
 
-## Year One
+# Year One
 
-### Semester 1 (4 months)
+## Semester 1 (4 months)
 
 Highlighted courses are the ones that I have personally selected.
 
-| Programming Skills                   | Course  | Description                                  |
-| ------------------------------------ | ------- | -------------------------------------------- |
-| <mark>One of 6.0001\*</mark>, 6.S061 | MIT OCW | The first introduction to programming course |
+| Subject                               | Course                               | Description                                  |
+| ------------------------------------- | ------------------------------------ | -------------------------------------------- |
+| Programming Skills                    | <mark>One of 6.0001\*</mark>, 6.S061 | The first introduction to programming course |
+| <mark>Physics I\*</mark>              | MIT OCW                              | The first introductory physics course        |
+| <mark>Differential Equations\*</mark> | MIT OCW                              | Mathematics for EE                           |
 
-| Physics                  | Course  | Description                           |
-| ------------------------ | ------- | ------------------------------------- |
-| <mark>Physics I\*</mark> | MIT OCW | The first introductory physics course |
-
-| Mathematics                           | Course  | Description        |
-| ------------------------------------- | ------- | ------------------ |
-| <mark>Differential Equations\*</mark> | MIT OCW | Mathematics for EE |
-
-### Semester 2 (4 months)
+## Semester 2 (4 months)
 
 | Physics                   | Course  | Description                            |
 | ------------------------- | ------- | -------------------------------------- |
