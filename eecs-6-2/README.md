@@ -25,9 +25,7 @@ Curriculum overviews: <https://www.eecs.mit.edu/academics/undergraduate-programs
 
 # Core Classes
 
-<details>
-<summary> <img src="roadmap-eecs.png"></img></summary>
-</details>
+<details><summary>View course roadmap</summary><img src="roadmap-eecs.png"></img></details>
 
 ## Year Zero
 
@@ -39,50 +37,64 @@ If you have not taken these classes before or do not feel like you have a solid 
 
 These courses are not "easy" and depending on your existing knowledge, you may need to go back to the very beginning in fundamental algebra, biology, and physics, which is nothing to be ashamed of.
 
-| Mathematics                                            | Course       | Description                                                                                     |
+| Subject                                                | Course       | Description                                                                                     |
 | ------------------------------------------------------ | ------------ | ----------------------------------------------------------------------------------------------- |
 | Pre-calculus Courses                                   | Khan Academy | Khan academy is a fantastic resource for receiving a fundamentals education in various topics.  |
 | Single Variable Calculus (Differentials and Integrals) | Khan Academy | Continue with Khan academy or switch to the much more rigorous MIT courses if you feel prepared |
 | Multivariable calculus (Calculus II)                   | MIT OCW      | GIR                                                                                             |
 
+<br />
+
 # Year One
 
-## Semester 1 (4 months)
+## Semester 1
 
 Highlighted courses are the ones that I have personally selected.
+Each semester is a period of 4 months.
 
-| Subject                               | Course                               | Description                                  |
-| ------------------------------------- | ------------------------------------ | -------------------------------------------- |
-| Programming Skills                    | <mark>One of 6.0001\*</mark>, 6.S061 | The first introduction to programming course |
-| <mark>Physics I\*</mark>              | MIT OCW                              | The first introductory physics course        |
-| <mark>Differential Equations\*</mark> | MIT OCW                              | Mathematics for EE                           |
+| Subject                  | Course                                                                                                | Description                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| - [x] Programming Skills | <mark>One of: 1. Introduction to Computer Science and Programming in Python (6.0001)\*</mark>, 6.S061 | The first introduction to programming course |
+| Physics                  | <mark>Physics I\*</mark>                                                                              | The first introductory physics course        |
+| Mathematics              | <mark>Differential Equations\*</mark>                                                                 | Mathematics for EE                           |
 
-## Semester 2 (4 months)
+## Semester 2
 
-| Physics                   | Course  | Description                            |
-| ------------------------- | ------- | -------------------------------------- |
-| <mark>Physics II\*</mark> | MIT OCW | The second introductory physics course |
+| Subject    | Course                                                                                        | Description                            |
+| ---------- | --------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Physics    | <mark>Physics II\*</mark>                                                                     | The second introductory physics course |
+| EECS       | <mark>Introduction to EECS\*</mark>                                                           | Intro                                  |
+| Foundation | 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | Pick 1 of 3 foundation courses         |
 
-| EECS                                | Course  | Description |
-| ----------------------------------- | ------- | ----------- |
-| <mark>Introduction to EECS\*</mark> | MIT OCW | Intro       |
+# Year Two
 
-| Foundation                                                                                    | Course  | Description                    |
-| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
-| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 1 of 3 foundation courses |
+## Semester 3
 
-## Year Two
+| Subject    | Course                                                                                        | Description                    |
+| ---------- | --------------------------------------------------------------------------------------------- | ------------------------------ |
+| Foundation | 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | Pick 2 of 3 foundation courses |
+| Foundation | 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | Pick 3 of 3 foundation courses |
 
-### Semester 3 (4 months)
+## Semester 4
 
-| Foundation                                                                                    | Course  | Description                    |
-| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
-| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 2 of 3 foundation courses |
+| Subject        | Course                                                                                                                                                                                        | Description                |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Header Subject | 6.1020 [6.031],6.1220 [6.046], 6.1400 [6.045], 6.1800 [6.033], 6.2210 [6.014], 6.2300 [6.013], 6.2500 [6.012], 6.3010 [6.011], 6.3900 [6.036], 6.4100 [6.034], 6.4810 [6.021], 6.6210 [6.640] | Pick 1 of 3 header courses |
+| Header Subject | 6.1020 [6.031],6.1220 [6.046], 6.1400 [6.045], 6.1800 [6.033], 6.2210 [6.014], 6.2300 [6.013], 6.2500 [6.012], 6.3010 [6.011], 6.3900 [6.036], 6.4100 [6.034], 6.4810 [6.021], 6.6210 [6.640] | Pick 2 of 3 header courses |
 
-| Foundation                                                                                    | Course  | Description                    |
-| --------------------------------------------------------------------------------------------- | ------- | ------------------------------ |
-| 6.1010 [6.009], 6.1210 [6.006], 6.1910 [6.004], 6.2000[6.002], 6.3000 [6.003], 6.3800 [6.008] | MIT OCW | Pick 3 of 3 foundation courses |
+# Year Three
 
-## Year Three
+## Semester 5
 
-## Year Four
+| Subject        | Course                                                                                                                                                                                        | Description                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Header Subject | 6.1020 [6.031],6.1220 [6.046], 6.1400 [6.045], 6.1800 [6.033], 6.2210 [6.014], 6.2300 [6.013], 6.2500 [6.012], 6.3010 [6.011], 6.3900 [6.036], 6.4100 [6.034], 6.4810 [6.021], 6.6210 [6.640] | Pick 3 of 3 header courses          |
+| AUS            | Advanced Undergraduate Project                                                                                                                                                                |
+| Elective       | MIT OCW                                                                                                                                                                                       | Can also be taken during semester 4 |
+
+## Semester 6
+
+| Subject  | Course                         | Description |
+| -------- | ------------------------------ | ----------- |
+| AUS      | Advanced Undergraduate Project | Continued   |
+| Elective | MIT OCW                        |
