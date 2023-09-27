@@ -16,3 +16,21 @@
 </p>
 
 > This plan outlines all the courses that you need to take to complete a double major undergraduate degree in physics at MIT. The flex option is for students who want to simultaneously pursue another field of study after or during the degree. <strong>Flex is for students that don't necessarily want to pursue a career in physics.</strong>
+
+## Y1:
+
+#### semester 1
+
+#### semester 2
+
+## Y2:
+
+#### semester 1
+
+#### semester 2
+
+## Y3:
+
+#### semester 1
+
+#### semester 2
