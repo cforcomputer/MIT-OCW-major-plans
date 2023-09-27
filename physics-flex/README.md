@@ -29,7 +29,7 @@
 #### semester 1
 - [ ] 8.03 Physics III
 - [ ] 8.21 Physics of Energy
-
+- [ ] 18.03 Differential Equations
 #### semester 2
 - [ ] 8.04 Quantum Physics I
 - [ ] 8.033 Relativity 
