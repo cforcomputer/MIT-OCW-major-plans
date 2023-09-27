@@ -11,11 +11,11 @@
 
 ## View contents
 
-- <a href="archive/eecs-6-2/">(2017) EECS 6-2 Electrical Engineering and Computer Science</a>
+- <a href="/eecs-6-2/">EECS 6-2 Electrical Engineering and Computer Science</a>
 - <a href="/physics-flex/">Physics (flex option for double majors)</a>
 
 The goal with these plans is for someone to sit down and complete all the courses and have all the equivalent courses to earn a degree at MIT.
 
 There are sufficient materials on MIT OCW for this to be possible now. The only exception is lab courses, where the learning experience will have to be replicated with your own exploratory projects.
 
-> <p style="color:orange"><i>Feel free to add more plans.</i></p>
+<p style="color:orange"><i>Feel free to add more plans.</i></p>
