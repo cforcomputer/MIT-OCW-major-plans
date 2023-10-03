@@ -1,6 +1,6 @@
 <h3 align="center">MIT OCW Major Plans</h3>
 <p align="center">
-  Path to a free self-taught education in the MIT OpenCourseWare!
+  Path to a free self-taught education in the MIT OpenCourseWare! 
 </p>
 <p align="center">
     <a href="https://ocw.mit.edu/">
@@ -18,4 +18,6 @@ The goal with these plans is for someone to sit down and complete all the course
 
 There are sufficient materials on MIT OCW for this to be possible now. The only exception is lab courses, where the learning experience will have to be replicated with your own exploratory projects.
 
-> <i>Feel free to add more plans.</i>
+> [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library)
+
+> [MIT OCW](https://ocw.mit.edu/search/)

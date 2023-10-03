@@ -18,31 +18,36 @@
 > This plan outlines all the courses that you need to take to complete a double major undergraduate degree in physics at MIT. The flex option is for students who want to simultaneously pursue another field of study after or during the degree. <strong>Flex is for students that don't necessarily want to pursue a career in physics.</strong>
 
 ### Prerequisites:
-- [ ] 18.01 Calculus 1 (GIR) [pre: none]
+
+- [ ] [18.01 Calculus 1](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) (GIR) [pre: none]
 - [ ] 18.02 Calculus 2 (GIR) [pre: 18.01]
-- [ ] 8.01 Physics 1 (GIR) [pre: none]
+- [ ] [8.01 Physics 1]() (GIR) [pre: none]
 - [ ] 8.02 Physics 2 (GIR) [pre: 8.01]
-- [ ] Chemistry (GIR) [pre: none]
-- [ ] Introductory Biology (GIR) [pre: none]
 
 ## Y1:
 
 #### semester 1
+
 - [ ] 8.03 Physics III [pre: 8.02]
-- [ ] 8.21 Physics of Energy [pre: 18.02, Chemistry, 8.02]
 - [ ] 18.03 Differential Equations [18.02]
+- [ ] Chemistry (GIR) [pre: none]
+
 #### semester 2
+
 - [ ] 8.04 Quantum Physics I [18.03, 8.03]
-- [ ] 8.033 Relativity [18.02, 8.02]
+- [ ] 8.21 Physics of Energy [pre: 18.02, Chemistry, 8.02]
+- [ ] Introductory Biology (GIR) [pre: none]
+
 ## Y2:
 
 #### semester 1
 
 - [ ] 8.13 Experimental Physics Lab (satisfies GIR) [8.04]
-- [ ] Elective Physics Subject
+- [ ] 8.033 Relativity [18.02, 8.02]
 - [ ] Focus area 1
 
 #### semester 2
 
 - [ ] Focus area 2
 - [ ] Focus area 3
+- [ ] Elective Physics Subject
