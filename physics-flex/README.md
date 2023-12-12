@@ -21,7 +21,7 @@
 
 - [ ] [18.01 Calculus 1](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) (GIR) [pre: none]
 - [ ] 18.02 Calculus 2 (GIR) [pre: 18.01]
-- [ ] [8.01 Physics 1]() (GIR) [pre: none]
+- [ ] [8.01 Physics 1](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/course/) (GIR) [pre: none]
 - [ ] 8.02 Physics 2 (GIR) [pre: 8.01]
 
 ## Y1:
