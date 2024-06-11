@@ -73,7 +73,7 @@ Each semester is a period of 4 months.
 | Subject    | Course                                                                                        | Description                    | Prereq|
 | ---------- | --------------------------------------------------------------------------------------------- | ------------------------------ | --- |
 | System Design| 6.302 Dynamical System Modeling and Control Design | System Design 1/4 | Linear algebra
-| System Design|[6.002 Electrical Circuits: Modeling and Design of Physical Systems| System Design 2/4](https://learning.edx.org/course/course-v1:MITx+6.002.1x+2T2019/home)| Physics II
+| System Design|(6.002 Electrical Circuits: Modeling and Design of Physical Systems| System Design 2/4)[https://learning.edx.org/course/course-v1:MITx+6.002.1x+2T2019/home]| Physics II
 | Electrical Engineering| Select 1/2 From EE track (any) | EE Track 1/2|
 | Electrical Engineering| Select 1/2 From EE track (CIM2) | EE Track CIM2 List 1/2|
 
